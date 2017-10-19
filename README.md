@@ -6,7 +6,7 @@
 git clone https://github.com/valmilson/cg171nb
 cd cg171nb
 python -m venv .cg
-source .cg/bin/activate
+.cg/Scripts/activate.bat
 pip install -r requirements.txt
 ```
 
