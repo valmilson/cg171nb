@@ -10,8 +10,8 @@ source .cg/bin/activate
 pip install -r requirements.txt
 ```
 
-## Iniciar o notebook
+## Executar projeto
 
 ```
-jupyter-notebook
+python lancamento.py
 ```
