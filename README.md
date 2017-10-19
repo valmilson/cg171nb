@@ -13,5 +13,5 @@ pip install -r requirements.txt
 ## Iniciar o notebook
 
 ```
-jupyter-notebook 
+jupyter-notebook
 ```
